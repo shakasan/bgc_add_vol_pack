@@ -8,11 +8,19 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
 You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-Script modified by Francois B. (Makotosan/Shakasan)
-    - updated for Python3
-    - for any volume pack sizes
+---
+
+Script modified by : 
+  Francois B. (Makotosan/Shakasan)
+
+Github : 
+  https://github.com/shakasan/bgc_add_vol_pack
+
+Changelog :
+    - Updated for Python3
+    - Any volume pack sizes
     - WebDriverWait increased up to 20 to try to avoid login failures
-    - headless mode added as optional parameter
+    - Headless mode added as optional parameter
     - repeat and packSize are optional with default value to 1 pack of 150 GB
 """
 

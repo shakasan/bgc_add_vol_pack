@@ -40,9 +40,9 @@ This script is using the following Python 3 modules :
 * pyvirtualdisplay 
 ```sudo pip3 install pyvirtualdisplay```
 
-And the following cmdline tool : 
+And the following cmdline tool (headless mode) : 
 
-* xvfb (Ubuntu) 
+* xvfb (Ubuntu and derivatives)
 ```sudo apt-get install xvfb```
 
 Examples of use

@@ -71,7 +71,7 @@ These scripts have been modified and improved by Francois B. (Makotosan / Shakas
 * Email : shakasan [at] sirenacorp.be
 * Website : [Makoto no Blog](https://sirenacorp.be/)
 
-Initial Credits ande Licence
+Initial Credits and Licence
 ===
 
 Copyright (C) 2016   Tuxicoman
